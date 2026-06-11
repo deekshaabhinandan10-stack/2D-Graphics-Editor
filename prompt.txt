@@ -1,0 +1,29 @@
+Prompt 1:
+Generate a complete C program for a 2D graphics editor using '*' and '_'.
+
+Response:
+Provided a menu-driven graphics editor with support for line, rectangle, circle, and triangle drawing.
+
+--------------------------------------------------
+
+Prompt 2:
+The LMS test cases are failing. Help me match the expected output.
+
+Response:
+Explained the required object-based structure and provided corrected code.
+
+--------------------------------------------------
+
+Prompt 3:
+Guide me step by step to upload the project to GitHub.
+
+Response:
+Provided instructions for creating a repository, uploading files, committing changes, and submitting the repository link.
+
+--------------------------------------------------
+
+Prompt 4:
+Check whether the project satisfies all assignment requirements.
+
+Response:
+Verified support for add object, delete object, modify object, display picture, list objects, structures, and 2D character array.
